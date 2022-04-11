@@ -1,0 +1,1 @@
+web: gunicorn loja_angel.core --log-file -
