@@ -1,1 +1,1 @@
-web: gunicorn loja_angel.core --log-file -
+web: gunicorn loja_angel.wsgi --log-file -
